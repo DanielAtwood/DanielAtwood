@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielAtwood.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS, and Javascript.
+- 🌱 I’m currently learning HTML, CSS, Javascript, React, and Node.js.
 - 💞️ I’m looking to collaborate on any kind of web development projects that could further my skills.
 - 📫 How to reach me email: atwood1999@gmail.com 
 
